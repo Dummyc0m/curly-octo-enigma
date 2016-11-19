@@ -1,7 +1,7 @@
 {
-	"name": "node2-loader",
-	"version": "0.5.0",
-	"author": "Tobias Koppers @sokra",
+	"name": "curly-octo-enigma",
+	"version": "0.0.0",
+	"author": "Tobias Koppers @sokra and Dummyc0m and stackoverflow copypasta",
 	"description": "node loader module for enhanced-require",
 	"licenses": [
 		{
